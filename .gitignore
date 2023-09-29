@@ -6,3 +6,4 @@ api.key
 CornCommonRust2.png
 .vscode/settings.json
 __pycache__/model.cpython-311.pyc
+generated_image*
